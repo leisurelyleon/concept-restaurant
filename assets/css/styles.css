@@ -1309,7 +1309,7 @@ textarea.input-field {
 
 
 /*-----------------------------------*\
-  BREAKPOINTS
+  - BREAKPOINTS
 \*-----------------------------------*/
 
 /**
@@ -1340,7 +1340,7 @@ textarea.input-field {
 @media (min-width: 550px) {
 
   /**
-   - REUSED STYLE
+   - REUSED STYLES
    */
 
   .container {
@@ -1380,7 +1380,7 @@ textarea.input-field {
 @media (min-width: 768px) {
 
   /**
-   - REUSED STYLE
+   - REUSED STYLES
    */
 
   .container { max-width: 720px; }
@@ -1497,7 +1497,7 @@ textarea.input-field {
 
 
   /**
-   - BANNER
+   - BANNERS
    */
 
   .banner-list { grid-template-columns: repeat(4, 1fr); }
@@ -1560,7 +1560,7 @@ textarea.input-field {
 
 
   /**
-   - REUSED STYLE
+   - REUSED STYLES
    */
 
   .container { max-width: 960px; }
@@ -1654,7 +1654,7 @@ textarea.input-field {
 
 
   /**
-   - BANNER
+   - BANNERS
    */
 
   .banner-lg .banner-title {
@@ -1717,7 +1717,7 @@ textarea.input-field {
 @media (min-width: 1200px) {
 
   /**
-   - REUSED STYLE
+   - REUSED STYLES
    */
 
   .container { max-width: 1200px; }
