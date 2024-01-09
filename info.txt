@@ -2,7 +2,7 @@
 
 All names, pictures, branding, locations, and contacts associated with this project are ENTIRELY FICTIONAL.
 
-No identification with actual persons, buildings, businesses, or officially licensed articles is intended nor should be inferred.
+No identification with actual persons, buildings, businesses, or official articles is intended nor should be inferred.
 
 This webpage is designed solely for demonstration, display of talent skills, and entertainment purposes ONLY.
 
@@ -29,4 +29,4 @@ HIS WEBPAGE: https://codewithsadee.github.io/foodie/
 
 I hope you enjoyed my new and improved iteration of this project!
 
-I appreciate you for reading and observing! :D
+I appreciate your observation! :D
